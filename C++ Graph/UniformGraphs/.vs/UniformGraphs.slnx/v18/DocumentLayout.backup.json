@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\walee\\source\\repos\\UniformGraphs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D46DFEA3-594A-44A3-9373-7A09109F0683}|UniformGraphs\\UniformGraphs.vcxproj|C:\\Users\\walee\\source\\repos\\UniformGraphs\\UniformGraphs\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D46DFEA3-594A-44A3-9373-7A09109F0683}|UniformGraphs\\UniformGraphs.vcxproj|solutionrelative:UniformGraphs\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D46DFEA3-594A-44A3-9373-7A09109F0683}|UniformGraphs\\UniformGraphs.vcxproj|C:\\Users\\walee\\source\\repos\\UniformGraphs\\UniformGraphs\\Graph.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D46DFEA3-594A-44A3-9373-7A09109F0683}|UniformGraphs\\UniformGraphs.vcxproj|solutionrelative:UniformGraphs\\Graph.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D46DFEA3-594A-44A3-9373-7A09109F0683}|UniformGraphs\\UniformGraphs.vcxproj|C:\\Users\\walee\\source\\repos\\UniformGraphs\\UniformGraphs\\Graph.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D46DFEA3-594A-44A3-9373-7A09109F0683}|UniformGraphs\\UniformGraphs.vcxproj|solutionrelative:UniformGraphs\\Graph.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "C:\\Users\\walee\\source\\repos\\UniformGraphs\\UniformGraphs\\Main.cpp",
+              "RelativeDocumentMoniker": "UniformGraphs\\Main.cpp",
+              "ToolTip": "C:\\Users\\walee\\source\\repos\\UniformGraphs\\UniformGraphs\\Main.cpp",
+              "RelativeToolTip": "UniformGraphs\\Main.cpp",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAcwBcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-02T14:22:43.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Graph.h",
+              "DocumentMoniker": "C:\\Users\\walee\\source\\repos\\UniformGraphs\\UniformGraphs\\Graph.h",
+              "RelativeDocumentMoniker": "UniformGraphs\\Graph.h",
+              "ToolTip": "C:\\Users\\walee\\source\\repos\\UniformGraphs\\UniformGraphs\\Graph.h",
+              "RelativeToolTip": "UniformGraphs\\Graph.h",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-02T14:22:16.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Graph.cpp",
+              "DocumentMoniker": "C:\\Users\\walee\\source\\repos\\UniformGraphs\\UniformGraphs\\Graph.cpp",
+              "RelativeDocumentMoniker": "UniformGraphs\\Graph.cpp",
+              "ToolTip": "C:\\Users\\walee\\source\\repos\\UniformGraphs\\UniformGraphs\\Graph.cpp",
+              "RelativeToolTip": "UniformGraphs\\Graph.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-02T14:22:10.898Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
