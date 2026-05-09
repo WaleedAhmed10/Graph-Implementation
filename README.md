@@ -1,2 +1,2 @@
-# Graph-Implementation-AI
-All Graphs related to Artificial Intelligence are available
+# Graph-Implementation-AI-DSA
+All Graphs related to Artificial Intelligence (Python) and DSA (C++) are available
